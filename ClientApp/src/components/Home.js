@@ -6,7 +6,7 @@ export class Home extends Component {
     render() {
         return (
             <div>
-                <h1>Hello, world!</h1>
+                <h1>Hello, ITSUR 13!</h1>
                 <p>Welcome to your new single-page application, built with:</p>
                 <ul>
                     <li>
